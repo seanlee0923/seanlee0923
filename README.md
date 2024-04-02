@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seanlee0923
-- 👀 I’m interested in ... many things
-- 🌱 I’m currently learning ... java, C 
+- 👀 I’m interested in golang msa, docker, kubernetes
+- 🌱 I’m currently learning ... golang, kubernetes, gRPC
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
